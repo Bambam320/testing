@@ -1,0 +1,16 @@
+.card {
+  display: flex;
+  gap: 16px;
+  margin-bottom: 16px;
+  position: relative;
+  overflow: hidden;
+  flex-wrap: wrap;
+  
+  /* box-shadow: 5px 6px gray; */
+}
+.poster-image {
+flex: 0 0 200px;
+width: 100px;
+display:block;
+
+}
